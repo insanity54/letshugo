@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on relative link test</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on relative link test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 May 2015 07:58:13 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>neu</title>
+      <link>http://localhost:1313/post/neu/</link>
+      <pubDate>Tue, 05 May 2015 07:58:13 -0700</pubDate>
+      
+      <guid>http://localhost:1313/post/neu/</guid>
+      <description>&lt;p&gt;this is a neu&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>tango</title>
+      <link>http://localhost:1313/post/tango/</link>
+      <pubDate>Tue, 05 May 2015 07:55:27 -0700</pubDate>
+      
+      <guid>http://localhost:1313/post/tango/</guid>
+      <description>
+
+&lt;h4 id=&#34;assets:787044b006bde02374d04a6f57cb45bc&#34;&gt;assets&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;./assets/carrot&#34;&gt;rel asset&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/assets/carrot&#34;&gt;abs asset&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;posts:787044b006bde02374d04a6f57cb45bc&#34;&gt;posts&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;./post/neu&#34;&gt;rel post&lt;/a&gt;
+&lt;a href=&#34;http://localhost:1313/post/neu&#34;&gt;abs post&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>face</title>
+      <link>http://localhost:1313/post/face/</link>
+      <pubDate>Tue, 05 May 2015 07:24:28 -0700</pubDate>
+      
+      <guid>http://localhost:1313/post/face/</guid>
+      <description>&lt;p&gt;u du am&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

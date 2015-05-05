@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2015-05-05T07:58:13-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/neu/</loc>
+    <lastmod>2015-05-05T07:58:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/tango/</loc>
+    <lastmod>2015-05-05T07:55:27-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/post/face/</loc>
+    <lastmod>2015-05-05T07:24:28-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2015-05-05T07:20:51-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/fart/</loc>
+    <lastmod>2015-05-05T07:17:44-07:00</lastmod>
+  </url>
+  
+</urlset>
